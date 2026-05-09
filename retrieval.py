@@ -7,15 +7,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# sentence-transformers: local model, no API calls, no rate limits
-# all-MiniLM-L6-v2: 80MB, 384-dim, CPU-only — fits Render free tier
-from sentence_transformers import SentenceTransformer
-
+EMBEDDING_DIM = 384
 _model = None
 
-def _get_model() -> SentenceTransformer:
+def _get_model():
+    """Lazy-load the model — runs AFTER uvicorn has already bound the port."""
     global _model
     if _model is None:
+        from sentence_transformers import SentenceTransformer  # lazy import
         print("Loading sentence-transformers model (all-MiniLM-L6-v2)...")
         _model = SentenceTransformer("all-MiniLM-L6-v2")
         print("Model loaded.")
