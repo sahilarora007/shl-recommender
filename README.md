@@ -373,5 +373,5 @@ The evaluator replays conversation traces without maintaining session state. Sta
 
 ## Author
 
-Built for the SHL Labs AI Intern Take-Home Assignment 2026.  
+Built By Sahil Arora for the SHL Labs AI Intern Take-Home Assignment 2026.  
 Stack: FastAPI · Groq Llama-3.3-70b · Gemini Embedding-2 · FAISS · Pydantic v2 · Python 3.11
