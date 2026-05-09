@@ -1,0 +1,3739 @@
+[
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-development-report/",
+    "description": "Assesses global skills for development, applicable to all job levels.",
+    "test_type": "A",
+    "test_type_label": "Ability & Aptitude",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "global",
+      "skills",
+      "development",
+      "report"
+    ]
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-framework-4-5/",
+    "description": "Assesses knowledge of .NET Framework 4.5 programming skills for backend software development.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": true,
+    "tags": [
+      "dotnet",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "net",
+      "framework",
+      "45"
+    ]
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvc-new/",
+    "description": "Assesses knowledge of .NET MVC framework and backend development skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dotnet",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "net",
+      "mvc",
+      "new"
+    ]
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-mvvm-new/",
+    "description": "Assesses knowledge of .NET MVVM programming concepts and skills for software development roles.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dotnet",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "net",
+      "mvvm",
+      "new"
+    ]
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wcf-new/",
+    "description": "Assesses knowledge of .NET WCF programming skills for backend software development.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dotnet",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "net",
+      "wcf",
+      "new"
+    ]
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-wpf-new/",
+    "description": "Assesses knowledge of .NET WPF programming skills for software engineers and developers.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dotnet",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "net",
+      "wpf",
+      "new"
+    ]
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/net-xaml-new/",
+    "description": "Assesses knowledge of .NET XAML programming skills for software engineers and developers.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dotnet",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "net",
+      "xaml",
+      "new"
+    ]
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-new/",
+    "description": "Assesses knowledge and skills in accounts payable processes and procedures.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "accounts",
+      "payable",
+      "new"
+    ]
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-payable-simulation-new/",
+    "description": "Assesses accounts payable skills through interactive simulation scenarios.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "simulation",
+      "interactive",
+      "scenario",
+      "accounts",
+      "payable",
+      "new"
+    ]
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-new/",
+    "description": "Assesses knowledge of accounts receivable processes and procedures.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "accounts",
+      "receivable",
+      "new"
+    ]
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "description": "Assesses accounts receivable management skills through interactive scenarios.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "simulation",
+      "interactive",
+      "scenario",
+      "accounts",
+      "receivable",
+      "new"
+    ]
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ado-net-new/",
+    "description": "Assesses knowledge of ADO.NET for .NET developers, covering backend programming skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dotnet",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "adonet",
+      "new"
+    ]
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-experience-manager-new/",
+    "description": "Assesses knowledge of Adobe Experience Manager.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "adobe",
+      "experience",
+      "manager",
+      "new"
+    ]
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/adobe-photoshop-cc/",
+    "description": "Assesses knowledge and skills in Adobe Photoshop CC.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": true,
+    "tags": [
+      "adobe",
+      "photoshop",
+      "cc"
+    ]
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aeronautical-engineering-new/",
+    "description": "Assesses knowledge and skills in aeronautical engineering for various professional levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "aeronautical",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/aerospace-engineering-new/",
+    "description": "Assesses knowledge and skills in aerospace engineering for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "aerospace",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-software-development/",
+    "description": "Assesses knowledge of agile software development principles and practices.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 7,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "agile",
+      "software",
+      "development"
+    ]
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/agile-testing-new/",
+    "description": "Assesses knowledge of agile testing principles and methods.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "agile",
+      "testing",
+      "new"
+    ]
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ai-skills/",
+    "description": "Assesses AI-related skills and behaviors for professionals.",
+    "test_type": "P",
+    "test_type_label": "Personality & Behavior",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "ai",
+      "skills"
+    ]
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "description": "Assesses knowledge and skills in Amazon Web Services development.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "amazon",
+      "web",
+      "services",
+      "aws",
+      "development",
+      "new"
+    ]
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/android-development-new/",
+    "description": "Assesses knowledge and skills in Android development for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "android",
+      "development",
+      "new"
+    ]
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angular-6-new/",
+    "description": "Assesses knowledge of Angular 6 framework and development skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "angular",
+      "6",
+      "new"
+    ]
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/angularjs-new/",
+    "description": "Assesses knowledge of AngularJS framework and development skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "angularjs",
+      "new"
+    ]
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-new/",
+    "description": "Assesses knowledge of Apache Hadoop concepts and skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "apache",
+      "hadoop",
+      "new"
+    ]
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "description": "Assesses knowledge of Apache Hadoop extensions and related skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "apache",
+      "hadoop",
+      "extensions",
+      "new"
+    ]
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hbase-new/",
+    "description": "Assesses knowledge of Apache HBase concepts and skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "apache",
+      "hbase",
+      "new"
+    ]
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-hive-new/",
+    "description": "Assesses knowledge of Apache Hive.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "apache",
+      "hive",
+      "new"
+    ]
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-kafka-new/",
+    "description": "Assesses knowledge of Apache Kafka concepts and skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "apache",
+      "kafka",
+      "new"
+    ]
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-pig-new/",
+    "description": "Assesses knowledge of Apache Pig, a data processing language and framework.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "apache",
+      "pig",
+      "new"
+    ]
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/apache-spark-new/",
+    "description": "Assesses knowledge of Apache Spark.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "apache",
+      "spark",
+      "new"
+    ]
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-with-c-new/",
+    "description": "Assesses ASP .NET and C# skills for backend software development.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dotnet",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "asp",
+      "net",
+      "with",
+      "c",
+      "new"
+    ]
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/asp-net-4-5/",
+    "description": "Assesses knowledge of ASP.NET 4.5 programming skills for backend development.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": true,
+    "tags": [
+      "dotnet",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "aspnet",
+      "45"
+    ]
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "description": "Evaluates skills through simulated exercises, assessing job readiness and development needs.",
+    "test_type": "E",
+    "test_type_label": "Assessment Exercises",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "assessment",
+      "and",
+      "development",
+      "center",
+      "exercises"
+    ]
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-fix-new/",
+    "description": "Assesses ability to fix automata simulations, evaluating problem-solving and technical skills.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "automata",
+      "fix",
+      "new"
+    ]
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-sql-new/",
+    "description": "Assesses SQL skills in a simulated database environment, evaluating data management and development abilities.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "sql",
+      "database",
+      "data",
+      "developer",
+      "automata",
+      "new"
+    ]
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-new/",
+    "description": "Assesses problem-solving skills using automata simulations, evaluating logical reasoning and analytical thinking.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "automata",
+      "new"
+    ]
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-new/",
+    "description": "Assesses data science skills using automata simulations for entry to senior levels.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "automata",
+      "data",
+      "science",
+      "new"
+    ]
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-data-science-pro-new/",
+    "description": "Assesses data science skills in automata using simulations.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "automata",
+      "data",
+      "science",
+      "pro",
+      "new"
+    ]
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-front-end/",
+    "description": "Assesses front-end development skills using automata simulations.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "automata",
+      "front",
+      "end"
+    ]
+  },
+  {
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-pro-new/",
+    "description": "Assesses automata skills in a simulated environment for entry to senior professionals.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "automata",
+      "pro",
+      "new"
+    ]
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automata-selenium/",
+    "description": "Assesses automation skills using Selenium, evaluating ability to create and implement automated tests.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "automata",
+      "selenium"
+    ]
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "description": "Assesses RPA development skills using Automation Anywhere.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "automation",
+      "anywhere",
+      "rpa",
+      "development",
+      "new"
+    ]
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/automotive-engineering-new/",
+    "description": "Assesses knowledge and skills in automotive engineering for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "automotive",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-biology-new/",
+    "description": "Assesses basic biology knowledge and skills for various professional levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "basic",
+      "biology",
+      "new"
+    ]
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "description": "Assesses basic computer literacy skills in a Windows 10 environment.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "basic",
+      "computer",
+      "literacy",
+      "windows",
+      "10",
+      "new"
+    ]
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/basic-statistics-new/",
+    "description": "Assesses basic statistical knowledge and skills, including data analysis and interpretation.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "basic",
+      "statistics",
+      "new"
+    ]
+  },
+  {
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biochemistry-new/",
+    "description": "Assesses knowledge of biochemistry concepts and principles.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "biochemistry",
+      "new"
+    ]
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biotech-lab-techniques-new/",
+    "description": "Assesses knowledge of biotech lab techniques.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "biotech",
+      "lab",
+      "techniques",
+      "new"
+    ]
+  },
+  {
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/biztalk-new/",
+    "description": "Assesses knowledge of BizTalk server skills for integration and development.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "biztalk",
+      "new"
+    ]
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communication-adaptive/",
+    "description": "Assesses business communication skills, adapting to individual ability.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": true,
+    "tags": [
+      "business",
+      "communication",
+      "adaptive"
+    ]
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/business-communications/",
+    "description": "Assesses knowledge of effective business communication skills, including written and verbal communication.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "business",
+      "communications"
+    ]
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new/",
+    "description": "Assesses C programming knowledge and skills for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "c",
+      "programming",
+      "new"
+    ]
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4039/",
+    "description": "Assesses C# programming skills and knowledge for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "c",
+      "programming",
+      "new"
+    ]
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/c-programming-new-4122/",
+    "description": "Assesses C++ programming skills for software engineers and developers.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "cpp",
+      "programming",
+      "software engineer",
+      "developer",
+      "c",
+      "new"
+    ]
+  },
+  {
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "description": "Assesses knowledge and skills in cardiology and diabetes management.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "cardiology",
+      "and",
+      "diabetes",
+      "management",
+      "new"
+    ]
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ceramic-engineering-new/",
+    "description": "SHL Knowledge & Skills assessment evaluating Ceramic Engineering (New) competencies.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "ceramic",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/chemical-engineering-new/",
+    "description": "Assesses knowledge and skills in chemical engineering for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "chemical",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cisco-appdynamics-new/",
+    "description": "Assesses knowledge of Cisco AppDynamics.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "cisco",
+      "appdynamics",
+      "new"
+    ]
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/civil-engineering-new/",
+    "description": "Assesses knowledge and skills in civil engineering for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "civil",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cloud-computing-new/",
+    "description": "Assesses knowledge of cloud computing concepts and technologies.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "cloud",
+      "computing",
+      "new"
+    ]
+  },
+  {
+    "name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cobol-programming-new/",
+    "description": "Assesses COBOL programming knowledge and skills for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "cobol",
+      "programming",
+      "new"
+    ]
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/computer-science-new/",
+    "description": "Assesses knowledge and skills in computer science for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "computer",
+      "science",
+      "new"
+    ]
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/contact-center-call-simulation-new/",
+    "description": "Assesses customer service skills in a simulated contact center environment through interactive call scenarios.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "simulation",
+      "interactive",
+      "scenario",
+      "contact",
+      "center",
+      "call",
+      "new"
+    ]
+  },
+  {
+    "name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/conversational-multichat-simulation/",
+    "description": "Interactive conversational simulation assessing communication skills in scenario-based multichat environments.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "simulation",
+      "interactive",
+      "scenario",
+      "conversational",
+      "multichat"
+    ]
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-advanced-level-new/",
+    "description": "Assesses advanced Java programming skills for backend software development.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "java",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "core",
+      "advanced",
+      "level",
+      "new"
+    ]
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/core-java-entry-level-new/",
+    "description": "Assesses core Java skills for entry-level programmers and developers.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "java",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "core",
+      "entry",
+      "level",
+      "new"
+    ]
+  },
+  {
+    "name": "Count Out The Money",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/count-out-the-money/",
+    "description": "Counts and manages cash accurately and efficiently.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": true,
+    "tags": [
+      "count",
+      "out",
+      "the",
+      "money"
+    ]
+  },
+  {
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/css3-new/",
+    "description": "Assesses knowledge of CSS3 skills and concepts.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "css3",
+      "new"
+    ]
+  },
+  {
+    "name": "Culinary Skills (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/culinary-skills-new/",
+    "description": "Assesses culinary knowledge and skills for entry to senior-level professionals.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "culinary",
+      "skills",
+      "new"
+    ]
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-simulation/",
+    "description": "Assesses customer service skills through interactive phone simulations, evaluating support and call center scenarios.",
+    "test_type": "B",
+    "test_type_label": "Biodata & Situational Judgement",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "Portuguese",
+      "Dutch",
+      "Italian",
+      "Spanish"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "customer service",
+      "support",
+      "call center",
+      "simulation",
+      "interactive",
+      "scenario",
+      "customer",
+      "service",
+      "phone"
+    ]
+  },
+  {
+    "name": "Customer Service Phone Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/customer-service-phone-solution/",
+    "description": "Assesses customer service skills via phone interactions, evaluating support and resolution abilities.",
+    "test_type": "B",
+    "test_type_label": "Biodata & Situational Judgement",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "Italian",
+      "Dutch",
+      "Spanish",
+      "Portuguese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "customer service",
+      "support",
+      "call center",
+      "customer",
+      "service",
+      "phone",
+      "solution"
+    ]
+  },
+  {
+    "name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/cyber-risk-new/",
+    "description": "Assesses knowledge of cyber risk concepts and skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "cyber",
+      "risk",
+      "new"
+    ]
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-new/",
+    "description": "Assesses data entry speed and accuracy in a simulated work environment, evaluating attention to detail and efficiency.",
+    "test_type": "S",
+    "test_type_label": "Simulations",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "data",
+      "entry",
+      "new"
+    ]
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "description": "Assesses data entry speed and accuracy in an alphanumeric split-screen format.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "data",
+      "entry",
+      "alphanumeric",
+      "split",
+      "screen",
+      "us"
+    ]
+  },
+  {
+    "name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "description": "Assesses data entry skills with numeric information on a split screen.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "data",
+      "entry",
+      "numeric",
+      "split",
+      "screen",
+      "us"
+    ]
+  },
+  {
+    "name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "description": "Assesses data entry speed and accuracy using ten-key pad on a split-screen interface.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "data",
+      "entry",
+      "ten",
+      "key",
+      "split",
+      "screen"
+    ]
+  },
+  {
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-science-new/",
+    "description": "Assesses data science knowledge and skills for entry to senior levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "data",
+      "science",
+      "new"
+    ]
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/data-warehousing-concepts/",
+    "description": "Assesses knowledge of data warehousing concepts and principles.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": true,
+    "tags": [
+      "data",
+      "warehousing",
+      "concepts"
+    ]
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "description": "Assesses dependability and safety behaviors in the workplace.",
+    "test_type": "P",
+    "test_type_label": "Personality & Behavior",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese",
+      "Dutch",
+      "French",
+      "German",
+      "Italian",
+      "Spanish"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dependability",
+      "and",
+      "safety",
+      "instrument",
+      "dsi"
+    ]
+  },
+  {
+    "name": "Dermatology (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dermatology-new/",
+    "description": "Assesses knowledge and skills in dermatology for various professional levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dermatology",
+      "new"
+    ]
+  },
+  {
+    "name": "Desktop Support (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/desktop-support-new/",
+    "description": "Assesses knowledge and skills for desktop support roles, evaluating technical expertise and troubleshooting abilities.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "desktop",
+      "support",
+      "new"
+    ]
+  },
+  {
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-advertising-new/",
+    "description": "Assesses knowledge of digital advertising concepts and skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "digital",
+      "advertising",
+      "new"
+    ]
+  },
+  {
+    "name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report/",
+    "description": "Assesses digital readiness and behavioral development for professionals.",
+    "test_type": "P",
+    "test_type_label": "Personality & Behavior",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "Portuguese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "digital",
+      "readiness",
+      "development",
+      "report",
+      "ic"
+    ]
+  },
+  {
+    "name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "description": "Assesses a manager's digital readiness and provides development insights.",
+    "test_type": "P",
+    "test_type_label": "Personality & Behavior",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "digital",
+      "readiness",
+      "development",
+      "report",
+      "manager"
+    ]
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/docker-new/",
+    "description": "Assesses knowledge of Docker concepts and skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "docker",
+      "new"
+    ]
+  },
+  {
+    "name": "Dojo (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dojo-new/",
+    "description": "Assesses knowledge and skills for various professions, evaluating expertise and readiness for roles.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dojo",
+      "new"
+    ]
+  },
+  {
+    "name": "Drupal (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/drupal-new/",
+    "description": "Assesses knowledge and skills in Drupal development for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "drupal",
+      "new"
+    ]
+  },
+  {
+    "name": "DSI v1.1 Interpretation Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "description": "Assesses personality and behavior for entry to senior-level professionals.",
+    "test_type": "P",
+    "test_type_label": "Personality & Behavior",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Portuguese",
+      "Dutch",
+      "French",
+      "Spanish",
+      "German",
+      "Italian"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "dsi",
+      "v11",
+      "interpretation",
+      "report"
+    ]
+  },
+  {
+    "name": "Econometrics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/econometrics-new/",
+    "description": "Assesses knowledge of econometric concepts and techniques.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "econometrics",
+      "new"
+    ]
+  },
+  {
+    "name": "Economics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/economics-new/",
+    "description": "Assesses knowledge of economic principles and concepts.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "economics",
+      "new"
+    ]
+  },
+  {
+    "name": "Electrical and Electronics Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "description": "Assesses knowledge and skills in electrical and electronics engineering.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "electrical",
+      "and",
+      "electronics",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Electrical Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electrical-engineering-new/",
+    "description": "Assesses knowledge and skills in electrical engineering for entry to senior levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "electrical",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "description": "Assesses knowledge and skills in electronics and telecommunications engineering.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "electronics",
+      "telecommunications",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "description": "Assesses knowledge and skills in electronics and embedded systems engineering.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "electronics",
+      "and",
+      "embedded",
+      "systems",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "description": "Assesses knowledge and skills in electronics and semiconductor engineering.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "electronics",
+      "and",
+      "semiconductor",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/english-comprehension-new/",
+    "description": "Assesses English language comprehension skills, evaluating ability to understand written text.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "english",
+      "comprehension",
+      "new"
+    ]
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-java-beans-new/",
+    "description": "Assesses knowledge of Enterprise Java Beans for Java programming and backend development.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "java",
+      "programming",
+      "backend",
+      "software engineer",
+      "developer",
+      "enterprise",
+      "beans",
+      "new"
+    ]
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report/",
+    "description": "Assesses leadership behavior and personality for enterprise-level roles.",
+    "test_type": "P",
+    "test_type_label": "Personality & Behavior",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Arabic",
+      "Dutch",
+      "French",
+      "German",
+      "Italian",
+      "Portuguese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "leadership",
+      "management",
+      "executive",
+      "strategy",
+      "enterprise",
+      "report",
+      "10"
+    ]
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "description": "Assesses leadership behavior and personality for enterprise-level roles.",
+    "test_type": "P",
+    "test_type_label": "Personality & Behavior",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "French",
+      "German",
+      "Italian"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "leadership",
+      "management",
+      "executive",
+      "strategy",
+      "enterprise",
+      "report",
+      "20"
+    ]
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-cashier-solution/",
+    "description": "Assesses skills for entry-level cashiers, evaluating customer service and transaction handling abilities.",
+    "test_type": "C",
+    "test_type_label": "Competencies",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "German",
+      "Italian",
+      "Dutch",
+      "Arabic",
+      "Spanish"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "entry",
+      "level",
+      "cashier",
+      "solution"
+    ]
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "description": "Assesses personality and behavior for entry-level customer service roles in retail and contact centers.",
+    "test_type": "P",
+    "test_type_label": "Personality & Behavior",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "German",
+      "French",
+      "Arabic",
+      "Italian",
+      "Dutch"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "entry",
+      "level",
+      "customer",
+      "servretail",
+      "contact",
+      "center"
+    ]
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "description": "Assesses customer service skills for entry-level roles, evaluating support and call center abilities.",
+    "test_type": "C",
+    "test_type_label": "Competencies",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "Italian",
+      "Dutch",
+      "Spanish",
+      "German",
+      "Arabic"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "customer service",
+      "support",
+      "call center",
+      "entry",
+      "level",
+      "customer",
+      "service",
+      "general",
+      "solution"
+    ]
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "description": "Assesses skills for hotel front desk roles, evaluating customer service and administrative abilities.",
+    "test_type": "C",
+    "test_type_label": "Competencies",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "French",
+      "Italian",
+      "Arabic",
+      "Spanish",
+      "German",
+      "Dutch"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "entry",
+      "level",
+      "hotel",
+      "front",
+      "desk",
+      "solution"
+    ]
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-sales-solution/",
+    "description": "Assesses entry-level sales skills in customer negotiation and business development.",
+    "test_type": "C",
+    "test_type_label": "Competencies",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "German",
+      "Italian",
+      "Spanish",
+      "French",
+      "Dutch",
+      "Arabic"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "sales",
+      "customer",
+      "negotiation",
+      "business development",
+      "entry",
+      "level",
+      "solution"
+    ]
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/entry-level-technical-support-solution/",
+    "description": "Assesses personality and behavior for entry-level technical support roles, evaluating suitability and potential for success.",
+    "test_type": "P",
+    "test_type_label": "Personality & Behavior",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "German",
+      "French",
+      "Italian",
+      "Dutch",
+      "Arabic"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "entry",
+      "level",
+      "technical",
+      "support",
+      "solution"
+    ]
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/etl-testing-new/",
+    "description": "Assesses ETL testing knowledge and skills, evaluating ability to design and execute tests for data integration processes.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "etl",
+      "testing",
+      "new"
+    ]
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios/",
+    "description": "Assesses leadership skills through scenario-based questions. Evaluates decision-making and judgment.",
+    "test_type": "B",
+    "test_type_label": "Biodata & Situational Judgement",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Italian"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "executive",
+      "senior",
+      "director",
+      "c-suite",
+      "scenarios"
+    ]
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "description": "Assesses leadership skills through scenario-based narrative reports, evaluating executive decision-making and strategic thinking.",
+    "test_type": "B",
+    "test_type_label": "Biodata & Situational Judgement",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Italian"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "executive",
+      "senior",
+      "director",
+      "c-suite",
+      "scenarios",
+      "narrative",
+      "report"
+    ]
+  },
+  {
+    "name": "Executive Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/executive-scenarios-profile-report/",
+    "description": "Assesses leadership skills through scenario-based questions, evaluating decision-making and judgment for executive roles.",
+    "test_type": "B",
+    "test_type_label": "Biodata & Situational Judgement",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Italian"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "executive",
+      "senior",
+      "director",
+      "c-suite",
+      "scenarios",
+      "profile",
+      "report"
+    ]
+  },
+  {
+    "name": "ExpressJS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/expressjs-new/",
+    "description": "Assesses knowledge of ExpressJS framework and development skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "expressjs",
+      "new"
+    ]
+  },
+  {
+    "name": "Filing - Names (R1)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/filing-names-r1/",
+    "description": "Assesses ability to accurately file names in alphabetical order.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "filing",
+      "names",
+      "r1"
+    ]
+  },
+  {
+    "name": "Filing - Numbers",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/filing-numbers/",
+    "description": "Assesses ability to accurately file numerical data in order.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "filing",
+      "numbers"
+    ]
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-accounting-new/",
+    "description": "Assesses knowledge of financial accounting principles and practices.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "financial",
+      "accounting",
+      "new"
+    ]
+  },
+  {
+    "name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/financial-and-banking-services-new/",
+    "description": "Assesses knowledge of financial and banking services concepts.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "financial",
+      "and",
+      "banking",
+      "services",
+      "new"
+    ]
+  },
+  {
+    "name": "Fire Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fire-engineering-new/",
+    "description": "Assesses knowledge and skills in fire engineering for entry to senior levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "fire",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Following Instructions v1 - UK (R1)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "description": "Assesses ability to follow instructions accurately.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "following",
+      "instructions",
+      "v1",
+      "uk",
+      "r1"
+    ]
+  },
+  {
+    "name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "description": "Assesses ability to follow instructions accurately.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "following",
+      "instructions",
+      "v1",
+      "us",
+      "r2"
+    ]
+  },
+  {
+    "name": "Food and Beverage Services (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/food-and-beverage-services-new/",
+    "description": "Assesses knowledge and skills in food and beverage services.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "food",
+      "and",
+      "beverage",
+      "services",
+      "new"
+    ]
+  },
+  {
+    "name": "Food Science (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/food-science-new/",
+    "description": "Assesses knowledge of food science principles and practices.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "food",
+      "science",
+      "new"
+    ]
+  },
+  {
+    "name": "Front Office Management (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/front-office-management-new/",
+    "description": "Assesses knowledge and skills in front office management for entry to senior levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "front",
+      "office",
+      "management",
+      "new"
+    ]
+  },
+  {
+    "name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "description": "Assesses foundational knowledge of chemistry concepts and principles.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "fundamentals",
+      "of",
+      "chemistry",
+      "new"
+    ]
+  },
+  {
+    "name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/fundamentals-of-physics-new/",
+    "description": "Assesses knowledge of fundamental physics concepts.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "fundamentals",
+      "of",
+      "physics",
+      "new"
+    ]
+  },
+  {
+    "name": "General Diseases (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/general-diseases-new/",
+    "description": "Assesses knowledge of general diseases.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "general",
+      "diseases",
+      "new"
+    ]
+  },
+  {
+    "name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/geoinformatics-engineering-new/",
+    "description": "Assesses knowledge and skills in geoinformatics engineering.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "geoinformatics",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/geoscience-engineering-new/",
+    "description": "Assesses geoscience engineering knowledge and skills for entry to senior levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "geoscience",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/git-new/",
+    "description": "Assesses knowledge of Git version control system, including basic commands and workflows.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "git",
+      "new"
+    ]
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/global-skills-assessment/",
+    "description": "Evaluates global skills for entry to senior professionals, assessing competencies.",
+    "test_type": "C",
+    "test_type_label": "Competencies",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Italian",
+      "Portuguese",
+      "French",
+      "German",
+      "Spanish",
+      "Arabic",
+      "Dutch"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "global",
+      "skills",
+      "assessment"
+    ]
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios/",
+    "description": "Assesses entry-level candidates' decision-making and problem-solving skills in workplace scenarios.",
+    "test_type": "B",
+    "test_type_label": "Biodata & Situational Judgement",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "graduate",
+      "entry level",
+      "early career",
+      "scenarios"
+    ]
+  },
+  {
+    "name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "description": "Assesses entry-level candidates' decision-making and problem-solving skills through narrative scenarios.",
+    "test_type": "B",
+    "test_type_label": "Biodata & Situational Judgement",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "graduate",
+      "entry level",
+      "early career",
+      "scenarios",
+      "narrative",
+      "report"
+    ]
+  },
+  {
+    "name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "description": "Assesses entry-level candidates' judgement and decision-making skills through scenario-based questions.",
+    "test_type": "B",
+    "test_type_label": "Biodata & Situational Judgement",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "graduate",
+      "entry level",
+      "early career",
+      "scenarios",
+      "profile",
+      "report"
+    ]
+  },
+  {
+    "name": "Hibernate (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hibernate-new/",
+    "description": "Assesses knowledge of Hibernate framework and its applications.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "hibernate",
+      "new"
+    ]
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipaa-security/",
+    "description": "Assesses knowledge of HIPAA security regulations and procedures.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": true,
+    "tags": [
+      "hipaa",
+      "security"
+    ]
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "description": "Evaluates competencies for entry to senior-level professionals, identifying high-potential talent.",
+    "test_type": "C",
+    "test_type_label": "Competencies",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "Dutch",
+      "French",
+      "German",
+      "Italian",
+      "Portuguese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "hipo",
+      "assessment",
+      "report",
+      "10"
+    ]
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "description": "Evaluates competencies for entry to senior-level professionals, identifying high-potential talent.",
+    "test_type": "C",
+    "test_type_label": "Competencies",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "French",
+      "German",
+      "Italian"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "hipo",
+      "assessment",
+      "report",
+      "20"
+    ]
+  },
+  {
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "description": "Assesses competencies for entry to senior-level professionals to unlock high potential.",
+    "test_type": "C",
+    "test_type_label": "Competencies",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese",
+      "Spanish",
+      "French",
+      "German",
+      "Italian"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "hipo",
+      "unlocking",
+      "potential",
+      "report",
+      "20"
+    ]
+  },
+  {
+    "name": "Housekeeping (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/housekeeping-new/",
+    "description": "Assesses knowledge and skills in housekeeping procedures and practices.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "housekeeping",
+      "new"
+    ]
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/htmlcss-new/",
+    "description": "Assesses knowledge of HTML and CSS programming languages.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "htmlcss",
+      "new"
+    ]
+  },
+  {
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/html5-new/",
+    "description": "Assesses knowledge of HTML5 programming language and development skills.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "html5",
+      "new"
+    ]
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/human-resources-new/",
+    "description": "Assesses knowledge and skills in human resources for various job levels.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "human",
+      "resources",
+      "new"
+    ]
+  },
+  {
+    "name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-datastage-new/",
+    "description": "Assesses knowledge of IBM DataStage skills for data integration and management.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior",
+      "Executive"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "ibm",
+      "datastage",
+      "new"
+    ]
+  },
+  {
+    "name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "description": "Assesses knowledge of IBM Sterling Order Management System.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "ibm",
+      "sterling",
+      "order",
+      "management",
+      "system",
+      "new"
+    ]
+  },
+  {
+    "name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/industrial-engineering-new/",
+    "description": "Assesses knowledge and skills in industrial engineering principles and practices.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "industrial",
+      "engineering",
+      "new"
+    ]
+  },
+  {
+    "name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-architecture-new/",
+    "description": "Assesses knowledge of Informatica architecture and design principles.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "informatica",
+      "architecture",
+      "new"
+    ]
+  },
+  {
+    "name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/view/informatica-developer-new/",
+    "description": "Assesses Informatica development skills for entry to senior-level professionals.",
+    "test_type": "K",
+    "test_type_label": "Knowledge & Skills",
+    "job_levels": [
+      "Entry-Level",
+      "Mid-Professional",
+      "Senior"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "duration_minutes": 30,
+    "remote_testing": true,
+    "adaptive": false,
+    "tags": [
+      "informatica",
+      "developer",
+      "new"
+    ]
+  }
+]

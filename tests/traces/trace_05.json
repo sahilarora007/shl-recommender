@@ -1,0 +1,9 @@
+{
+  "id": "trace_05",
+  "messages": [
+    {"role": "user", "content": "We need an assessment for a sales representative role"},
+    {"role": "assistant", "content": "What seniority level and what kind of assessment — skills, personality, or situational?"},
+    {"role": "user", "content": "Entry level, situational and customer service focus"}
+  ],
+  "expected_shortlist": ["Entry Level Sales Solution", "Customer Service Phone Solution", "Entry Level Customer Service (General) Solution"]
+}

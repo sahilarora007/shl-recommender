@@ -1,0 +1,9 @@
+{
+  "id": "trace_03",
+  "messages": [
+    {"role": "user", "content": "I need to assess a senior manager for leadership potential"},
+    {"role": "assistant", "content": "Are you looking for personality, competency, or both?"},
+    {"role": "user", "content": "Both personality and leadership competency"}
+  ],
+  "expected_shortlist": ["Enterprise Leadership Report 2.0", "Enterprise Leadership Report 1.0"]
+}

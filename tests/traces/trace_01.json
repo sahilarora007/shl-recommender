@@ -1,0 +1,9 @@
+{
+  "id": "trace_01",
+  "messages": [
+    {"role": "user", "content": "I need an assessment for a software engineer"},
+    {"role": "assistant", "content": "What kind of skills or technology are you assessing?"},
+    {"role": "user", "content": "Java backend development"}
+  ],
+  "expected_shortlist": ["Core Java (Advanced Level) (New)", "Core Java (Entry Level) (New)", "Enterprise Java Beans (New)"]
+}

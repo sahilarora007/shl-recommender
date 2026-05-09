@@ -1,0 +1,9 @@
+{
+  "id": "trace_02",
+  "messages": [
+    {"role": "user", "content": "We are hiring a data analyst and need an aptitude test"},
+    {"role": "assistant", "content": "What seniority level is this role?"},
+    {"role": "user", "content": "Entry level, fresh graduate"}
+  ],
+  "expected_shortlist": ["Global Skills Assessment", "Global Skills Development Report", "Data Science (New)"]
+}

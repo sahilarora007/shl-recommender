@@ -1,0 +1,7 @@
+{
+  "id": "trace_04",
+  "messages": [
+    {"role": "user", "content": "Senior Python developer, data science background, remote testing preferred"}
+  ],
+  "expected_shortlist": ["Data Science (New)", "Automata Data Science (New)", "Automata Data Science Pro (New)"]
+}
