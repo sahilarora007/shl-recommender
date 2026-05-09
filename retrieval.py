@@ -3,17 +3,25 @@ import json
 import numpy as np
 import faiss
 import pickle
-from google import genai
 from dotenv import load_dotenv
 
 load_dotenv()
-api_key = os.getenv("GEMINI_API_KEY", "")
-client = None
-if api_key:
-    client = genai.Client(api_key=api_key)
 
-EMBEDDING_MODEL = "gemini-embedding-2"
-EMBEDDING_DIM = 3072
+# sentence-transformers: local model, no API calls, no rate limits
+# all-MiniLM-L6-v2: 80MB, 384-dim, CPU-only — fits Render free tier
+from sentence_transformers import SentenceTransformer
+
+_model = None
+
+def _get_model() -> SentenceTransformer:
+    global _model
+    if _model is None:
+        print("Loading sentence-transformers model (all-MiniLM-L6-v2)...")
+        _model = SentenceTransformer("all-MiniLM-L6-v2")
+        print("Model loaded.")
+    return _model
+
+EMBEDDING_DIM = 384
 
 def build_embed_text(entry: dict) -> str:
     parts = [
@@ -27,26 +35,20 @@ def build_embed_text(entry: dict) -> str:
 
 def get_embedding(text: str) -> np.ndarray:
     try:
-        if not client:
-            return np.random.rand(EMBEDDING_DIM).astype("float32")
-        result = client.models.embed_content(
-            model=EMBEDDING_MODEL,
-            contents=text,
-        )
-        return np.array(result.embeddings[0].values, dtype="float32")
+        model = _get_model()
+        vec = model.encode(text, normalize_embeddings=True)
+        return vec.astype("float32")
     except Exception as e:
         print(f"Embedding error: {e}")
-        return np.random.rand(EMBEDDING_DIM).astype("float32")
+        return np.zeros(EMBEDDING_DIM, dtype="float32")
 
 def get_embeddings_batch(texts: list[str]) -> np.ndarray:
-    """Embed texts one at a time — Gemini batch API returns only 1 result for large batches."""
-    embeddings = []
-    for i, text in enumerate(texts):
-        if (i + 1) % 20 == 0:
-            print(f"  Embedding {i+1}/{len(texts)}...")
-        vec = get_embedding(text)
-        embeddings.append(vec)
-    return np.array(embeddings, dtype="float32")
+    """Batch encode all texts at once — sentence-transformers handles batching internally."""
+    model = _get_model()
+    print(f"  Encoding {len(texts)} catalog entries...")
+    vecs = model.encode(texts, normalize_embeddings=True, batch_size=32, show_progress_bar=False)
+    print(f"  Done. Shape: {vecs.shape}")
+    return vecs.astype("float32")
 
 class VectorStore:
     def __init__(self):
@@ -59,6 +61,7 @@ class VectorStore:
             self.index = faiss.read_index(index_path)
             with open(pkl_path, "rb") as f:
                 self.catalog = pickle.load(f)
+            print(f"Index loaded: {self.index.ntotal} vectors, dim={self.index.d}")
         else:
             print("Building new FAISS index...")
             if not os.path.exists(catalog_path):
@@ -66,41 +69,33 @@ class VectorStore:
                 return
             with open(catalog_path, "r", encoding="utf-8") as f:
                 self.catalog = json.load(f)
-            
+
             if not self.catalog:
                 return
-                
+
             texts = [build_embed_text(e) for e in self.catalog]
             vecs = get_embeddings_batch(texts)
-            faiss.normalize_L2(vecs)
-            
+
             dim = vecs.shape[1]
             self.index = faiss.IndexFlatIP(dim)
             self.index.add(vecs)
-            
+
             faiss.write_index(self.index, index_path)
             with open(pkl_path, "wb") as f:
                 pickle.dump(self.catalog, f)
-            print("FAISS index built and saved.")
+            print(f"FAISS index built and saved. {self.index.ntotal} vectors, dim={dim}")
 
     def search(self, query: str, top_k: int = 15) -> list[dict]:
         if self.index is None:
             return []
-            
+
         vec = get_embedding(query).reshape(1, -1)
-        faiss.normalize_L2(vec)
-        
         k = min(top_k, len(self.catalog))
         if k == 0:
             return []
-            
+
         distances, indices = self.index.search(vec, k)
-        
-        results = []
-        for idx in indices[0]:
-            if idx < len(self.catalog):
-                results.append(self.catalog[idx])
-        return results
+        return [self.catalog[idx] for idx in indices[0] if idx < len(self.catalog)]
 
 store = VectorStore()
 
